@@ -1,6 +1,10 @@
 # springMVC-demo
 SpringMVC学习过程的代码 
 2022.06.21-2022.06.26
+IDEA 2020.1
+Tomcat 8.5.81
+Maven 3.5.4
+
 
 ## 主要包括如下内容
 1. SpringMVC简易项目的创建流程
